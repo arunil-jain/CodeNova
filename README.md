@@ -1,1 +1,7 @@
-# Skill Exchange Platform for Students\nThis is the Skill Exchange Platform for Students where students can share skills and learn from each other.\n\n## Features\n- User Registration\n- Skill Listings\n- Feedback System\n\n## Getting Started\n1. Clone the repository\n2. Install dependencies with `npm install`\n3. Run the application with `npm start`\n\n## License\nThis project is licensed under the MIT License.
+# Skill Exchange Platform for Students
+This is the Skill Exchange Platform for Students where students can share skills and learn from each other.
+
+## Features
+- User Registration
+- Skill Listings
+- Feedback System
